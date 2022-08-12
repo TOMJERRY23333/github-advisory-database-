@@ -15,8 +15,8 @@ HEADERS = {
                   'Chrome/103.0.0.0 Safari/537.36 '
 }
 DATA = {
-    'username': 'TOMJERRY23333',
-    'password': 'Lhc!312457248',
+    'username': '######',
+    'password': '*******',
     'action': 'login'}
 
 
