@@ -9,6 +9,7 @@ __pycache__/
 # Distribution / packaging
 .Python
 build/
+__init__.py/
 develop-eggs/
 dist/
 downloads/
@@ -36,6 +37,8 @@ MANIFEST
 # Installer logs
 pip-log.txt
 pip-delete-this-directory.txt
+data/github1.txt
+data/cookies.txt
 
 # Unit test / coverage reports
 htmlcov/
